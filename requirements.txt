@@ -1,6 +1,4 @@
 django 
-gymupdf
-google-generativeai
 numpy
 cv2
 sklearn
