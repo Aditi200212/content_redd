@@ -1,6 +1,2 @@
 django 
-numpy
-cv2
-sklearn
-tourch
 gunicorn
